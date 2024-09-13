@@ -9,7 +9,6 @@ This project is a Netflix clone web application that integrates with a real-time
 - **Real-Time Data Integration**: Seamlessly integrates with the Movie Database API to fetch and display the latest movie information.
 - **Dynamic Movie Display**: Processes and displays real-time data for a large catalog of movies.
 - **Responsive Design**: Optimized for various screen sizes, ensuring a user-friendly interface on both desktop and mobile devices.
-- **Search and Filter**: Allows users to search for movies and filter them by various criteria such as genre, release year, and popularity.
 
 ## Tools and Technologies
 
